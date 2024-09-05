@@ -352,7 +352,7 @@
 ||urchin.fr^
 ||www.google.com.tn^
 ||www.google.it.ao^
-$$youtube-3rd-party.com^
+$$youtube-3rd-party.com
 ! Doubleclick
 ||doubleclick-cn.net^
 ||doubleclick.com^
@@ -1588,13 +1588,13 @@ $$youtube-3rd-party.com^
 ! Short Links
 ||g.co^
 ||goo.gl^
-$$youtu.be^
+$$youtu.be
 ||yt.be^
-$$withyoutube.com^
-$$youtube-nocookie.com^
-$$youtube.be^
-$$youtube.co.uk^
-$$youtube.com^
+$$withyoutube.com
+$$youtube-nocookie.com
+$$youtube.be
+$$youtube.co.uk
+$$youtube.com
 $$youtube.de^
 $$youtube.es^
 $$youtube.fr^
