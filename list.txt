@@ -8,11 +8,11 @@
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
 !
-! Source name: No Google
-! Source: https://raw.githubusercontent.com/nickspaargaren/no-google/master/pihole-google-adguard.txt
+
 !
 
 ! Android
+||dms.toyota.astra.co.id^
 ||android.com^
 ! Area120
 ||kormo.com^
