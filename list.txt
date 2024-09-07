@@ -759,22 +759,6 @@
 ||zyvwtasyon.com^
 ! Mail
 ||email-insights.co.uk^
-||gmail-for-your-domain.info^
-||gmail.co^
-||gmail.de^
-||gmail.dk^
-||gmail.fr^
-||gmail.ie^
-||gmail.kz^
-||gmail.name^
-||gmailbuch.de^
-||gmailbuzz.cl^
-||gmailbuzz.dk^
-||gmailer.de^
-||gmails.de^
-||gmailtechnicalsupport.net^
-||gmailtechsupport.org^
-||googlemail.com^
 ! Pagelink
 ||0utlookmxupdates1.page.link^
 ||0utlookmxverification1.page.link^
