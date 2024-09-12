@@ -26,6 +26,7 @@ $$chatgpt.com^
 $$google.com^
 $$live.com^
 $$whatsapp.com^
+$$web.whatsapp.com^
 $$instagram.com^
 $$facebook.com^
 $$telegram.org^
